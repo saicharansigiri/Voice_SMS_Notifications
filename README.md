@@ -1,77 +1,50 @@
-# Voice_SMS_Notifications
 
-# wallabag - Android App ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
+# Voice_SMS_Notifications - Android App ![Build status](https://github.com/wallabag/android-app/workflows/CI/badge.svg?branch=master)
 
-<img src="/readme/wallabag logo.png" align="left"
-width="200" hspace="10" vspace="10">
 
-wallabag is a self-hosted read-it-later app.  
-Unlike other services, wallabag is free and open source.  
-wallabag for Android is a companion app for [wallabag](https://www.wallabag.org). You need a wallabag account first, which you are going to use in this app.
 
-wallabag is available on the Google Play Store and F-Droid.
+This app gives voice notifications Whenever users receives an  sms.  
+Unlike other apps, This app  is free and open source.  
+You Don't need an account To use this app , as this app works in offline Mode also.
 
-<p align="left">
-<a href="https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>  
-<a href="https://f-droid.org/app/fr.gaulupeau.apps.InThePoche">
-    <img alt="Get it on F-Droid"
-        height="80"
-        src="https://f-droid.org/badge/get-it-on.png" />
-        </a>
-        </p>
 
 ## About
 
-wallabag has been made for you to comfortably read and archive your articles.
-You can download wallabag from wallabag.org and follow the instructions to install it on your own server.
-Alternatively, you can directly sign up for [wallabag.it](https://wallabag.it) or [Framabag](https://framabag.org).
-
-This android application allows you to put a link in your wallabag instance, letting you read your wallabag links offline.
-
-This application was originally created by Jonathan GAULUPEAU and released under the GNU GPLv3.
-wallabag is a creation from Nicolas Lœuillet released under the MIT License (Expat License).
+voice sms app has been made for you to relax and comfortably listen to incoming SMS texts Without reading it.
+You can download The app from This link [download apk](https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/app/release/app-release.apk).
+After installing the app you can Customize the voice by setting pitch values from 0-100  or change the speed the voice.
 
 ## Features
 
 The android app lets you:
-- Connect to your self-hosted wallabag instance or connect to your [wallabag.it](https://wallabag.it) or [Framabag](https://framabag.org) account.
-- Supports wallabag 2.0 and higher.
+- Listen to sms while you are Driving.
+- Supports all Android phones 6.0 and higher versions.
 - Completely ad-free.
-- Increase and decrease the size of the font and also switch between a serif or sans-serif font for a more comfortable reading experience.
-- Switch between numerous themes.
-- Possibility to cache images locally for offline reading.
-- Get articles read via Text-to-Speech feature.
-- Needs no special permissions on Android 6.0+.
+- Increase and decrease the pitch and speed values of the voice.
+- You can start the service using StartService.
+
 
 ## Screenshots
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+[<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-39.jpg" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
+[<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-35.jpg" align="center"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+     [<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-33.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+    [<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-28.jpg" align="center"
+width="200"
+    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+   
 
 ## Permissions
 
-On Android versions prior to Android 6.0, wallabag requires the following permissions:
-- Full Network Access.
-- View Network Connections.
-- Run at startup.
-- Read and write access to external storage.
-
-The "Run at startup" permission is only used if Auto-Sync feature is enabled and is not utilised otherwise. The network access permissions are made use of for downloading content. The external storage permission is used to cache article images for viewing offline.
-
-## Contributing
-
-wallabag app is a free and open source project developed by volunteers. Any contributions are welcome. Here are a few ways you can help:
- * [Report bugs and make suggestions.](https://github.com/wallabag/android-app/issues)
- * [Translate the app](https://hosted.weblate.org/projects/wallabag/android-app/) (you don't have to create an account).
- * Write some code. Please follow the code style used in the project to make a review process faster.
+On Android versions prior to Android 6.0, This requires the following permissions:
+- Full SMS Access.
+- SMS read access .
 
 ## License
 
