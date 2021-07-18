@@ -5,7 +5,7 @@
 
 This app gives voice notifications Whenever users receives new sms.  
 Unlike other apps, This app  is free and open source.  
-You Don't need an account To use this app , as this app works in offline Mode also.
+You Don't need an account To use this app , as this app works in offline Mode.
 
 
 ## About
