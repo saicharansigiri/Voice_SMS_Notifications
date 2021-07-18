@@ -27,16 +27,16 @@ The android app lets you:
 ## Screenshots
 
 [<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-39.jpg" align="left"
-width="200"
+width="180"
     hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
 [<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-35.jpg" align="center"
-width="200"
+width="180"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
      [<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-33.jpg" align="center"
-width="200"
+width="180"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
     [<img src="https://github.com/saicharansigiri/Voice_SMS_Notifications/blob/master/photos/photo_2021-07-18_17-27-28.jpg" align="center"
-width="200"
+width="180"
     hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
    
 
