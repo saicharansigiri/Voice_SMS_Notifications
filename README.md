@@ -17,7 +17,7 @@ After installing the app you can Customize the voice by setting pitch values fro
 ## Features
 
 The android app lets you:
-- Listen to sms while you are Driving.
+- Listen to new Incomming sms while you are Driving.
 - Supports all Android phones 6.0 and higher versions.
 - Completely ad-free.
 - Increase and decrease the pitch and speed values of the voice.
